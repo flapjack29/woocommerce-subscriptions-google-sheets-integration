@@ -1,4 +1,4 @@
-# woocommerce-google-sheets-integration - SUBSCRIPTIONS
+# woocommerce-google-sheets-integration for Subscriptions
 This google sheet syncs subscription data from your WooCommerce store to Google sheets automatically. A free alternative to Zapier-WooCommerce subscription integration.
 
 The sheet uses the WooCommerce Rest API v1 to connect to the WooCommerce store and sync the subscription data to a google sheet. The sheet will fetch subscription details like First Name, Last Name, Billing Address, Shipping address, Phone, Email, Price, Payment method, Items, Quantity  OrderId, Notes, Date, Refunds, Order key.
